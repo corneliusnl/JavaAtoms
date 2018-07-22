@@ -1,0 +1,98 @@
+import java.io.*;
+import java.util.*;
+
+class AtomFile
+{
+	String	AtomicNumber;
+	String	Name;
+	String	Symbol;
+	String	Density;
+	String	MeltingPt;
+	String	BoilingPt;
+	String	MolarMass;
+	String	CommonIon;
+	String	OtherIon;
+	String	Comment;
+}
+
+class DataBase
+{
+	DataInputStream	dis;
+	final int MaxAtoms = 300;
+	int	NumAtoms = 0;
+	
+	//
+	// Constructor 1 of 2
+	//
+	AtomFile(String Filename)
+	{
+		try
+		{
+			File file = new File(Filename);
+			dis = new DataInputStream(new FileInputStream(file));
+		}
+		catch (IOException e)
+		{
+			System.out.println("Error, unable to open" + Filename);
+		}
+	}
+
+	//
+	// Constructor 2 of 2
+	//
+/*	AtomFile(URL Filename)
+	{
+	}*/
+
+	//
+	// Compile Information
+	//
+	public void CompileList()
+	{
+	}
+	
+	//
+	// Make List
+	//
+	public String[] MakeList()
+	{
+		StringTokenizer st;
+		String	AtomList[]  = new String[MaxAtoms];
+		String	buff;
+		
+		try
+		{
+read:			while((buff = dis.readLine()) != null)
+			{
+				if(buff.indexOf(";") != -1)
+					continue read;
+
+				st = new StringTokenizer(buff, "|");
+				st.nextToken();
+				AtomList[NumAtoms] = st.nextToken();
+				NumAtoms++;
+			}
+		}
+		catch (IOException e)
+		{
+			System.out.println("Error reading line");
+		}
+		
+		return AtomList;
+	}
+	
+	//
+	// Cleanup
+	//
+	public void Terminate()
+	{
+		try
+		{
+			dis.close();
+		}
+		catch (IOException e)
+		{
+			System.out.println("Error, closing file.");
+		}
+	}
+}

@@ -1,0 +1,108 @@
+1|Hydrogen|H|Gas|0.0899|2.1|1766|-259|-253|1.01|1|-1|"Tasteless, odorless gas  and one of the most important elements.  Hydrogen comes from the greek word meaing water former.  Henry Cavendish, and English scientist, releaved the properties of hydrogen and identified it as an element in 1766."
+2|Helium|He|Gas|0.179|NA|1895|-272|-269|4|NA|NA|"Lightweight, inert gas.  Comes from the Greek word helios, meaing sun.  This is because Helium was first evidenced by a French astronomer Pierre J. Janssen, in 1868, in the sun."
+3|Lithium|Li|Solid|0.534|1|1817|181|1342|6.94|1|NA|"Soft, silvery-white metallic element, and the lightest known element.  It reacts with water, similar to sodium, to produce hydrogen gas, however, unlike sodium this reaction does not usually ignite hydrogen. Discovered in 1817 by Johann August Arfvedson."
+4|Beryllium|Be|Solid|1.85|1.5|1828|1278|2970|9.01|2|NA|"Rare, light-gray metallic element. The Germon chemist Friedrich Wohler and the French chemist A. A. Bussy, isolated the first extracts of this pure element in 1826. Having a great capacity for absorbing and conducting large amounts of heat energy."
+5|Boron|B|Solid|2.34|2|1808|2300|2550|10.81|NA|NA|Yellish-brown crystal. First isolated in 1808 by Sir Humphery Davy of England. Boron has the ability to absorb neutrons without being changed by them. Large amounts of this element is poisonous..
+6|Carbon|C|Solid|2.26|2.5|Ancients|3550|4827|12.01|NA|NA|NA
+7|Nitrogen|N|Gas|1.25|3|1772|-210|-196|14.01|-3|NA|NA
+8|Oxygen|O|Gas|1.43|3.5|1774|-218|-183|16|-2|NA|NA
+9|Flourine|F|Gas|1.7|4|1886|-220|-188|19|-1|NA|NA
+10|Neon|Ne|Gas|0.9|NA|1898|-249|-246|20.18|NA|NA|NA
+11|Sodium|Na|Solid|0.971|0.9|1807|97.8|883|22.99|1|NA|NA
+12|Magnesium|Mg|Solid|1.74|1.2|1808|649|1107|24.31|2|NA|"Light, silvery-white metal. Despite its lightness, it is quite strong and often used in construction. Discovered in 1808 by the Engish chemist Sir Humphry Davy."
+13|Aluminum|Al|Solid|2.7|1.5|1827|660|2467|26.98|3|NA|NA
+14|Silicon|Si|Solid|2.33|1.8|1824|1410|2355|28.09|NA|NA|NA
+15|Phosphorus|P|Solid|1.82|2.1|1669|44.1|280|30.97|-3|NA|"Red, white and black (violet) forms of this element exist. The red form does not burn as readily as the white. Discovered by the German alchemist, Hennig Brand."
+16|Sulfar|S|Solid|2.07|2.5|Ancients|113|445|32.06|-2|NA|NA
+17|Chlorine|Cl|Gas|3.21|3|1774|-101|-34.6|35.45|-1|NA|NA
+18|Argon|Ar|Gas|1.78|NA|1894|-189|-186|39.95|NA|NA|NA
+19|Potassium|K|Solid|0.862|0.8|1807|63.3|760|39.1|1|NA|"Silvery metallic element.  It is soft enought that it might be cut with a knife. It reacts readily with with both oxygen and water. Discovered by Sir Humphry Davy, and English chemist in 1807."
+20|Calcium|Ca|Solid|1.54|1|1808|839|1484|40.08|2|NA|NA
+21|Scandium|Sc|Solid|2.99|1.3|1876|1541|2836|44.96|3|NA|NA
+22|Titanium|Ti|Solid|4.54|1.5|1791|1660|3287|47.88|4|3|"Lightweight, silver-gray metal. Discovered by William Gregor of England in 1791."
+23|Vanadium|V|Solid|5.96|1.6|1801|1890|3380|50.94|3|4|NA
+24|Chromium|Cr|Solid|7.2|1.6|1797|1857|2672|52|3|2|NA
+25|Manganese|Mn|Solid|7.2|1.5|1774|1244|1962|54.94|2|4|"Brittle, silver gray, metallic element. Discovered by the Swedish chemist, Gottlieb Gahn, in 1774. Althought it can cut glass, it is to brittle to be used in construction."
+26|Iron|Fe|Solid|7.87|1.8|Ancients|1535|2750|55.85|3|2|NA
+27|Cobalt|Co|Solid|8.9|1.8|1735|1495|2870|58.93|2|3|NA
+28|Nickel|Ni|Solid|8.9|1.8|1751|1455|2730|58.69|2|3|NA
+29|Copper|Cu|Solid|8.92|1.9|Ancients|1083|2567|63.55|2|1|NA
+30|Zinc|Zn|Solid|7.14|1.6|1746|420|907|65.38|2|NA|NA
+31|Gallium|Ga|Solid|5.9|1.6|1875|29.8|2403|69.72|3|NA|NA
+32|Germanium|Ge|Solid|5.35|1.8|1886|937|2830|72.61|4|NA|NA
+33|Arsenic|As|Solid|5.73|2|1250|817|613|74.92|-3|NA|NA
+34|Selenium|Se|Solid|4.81|2.4|1817|217|684|78.96|-2|NA|NA
+35|Bromine|Br|Liquid|3.12|2.8|1826|-7.2|58.8|79.9|-1|NA|"Reddish liquid element. Highly reactive, readily vaporizing into a reddish-brown gas that has a strongly irritating odor. Both states or this element are highly corrosive and poisonous. Discovered by Antoine J. Balard (French) and Carl J. Lowig (German)"
+36|Krypton|Kr|Gas|3.74|NA|1898|-157|-152|83.8|NA|NA|NA
+37|Rubidium|Rb|Solid|1.53|0.8|1861|38.9|686|85.47|1|NA|NA
+38|Strontium|Sr|Solid|2.6|1|1808|769|1384|87.62|2|NA|NA
+39|Yttrium|Y|Solid|4.47|1.3|1794|1522|3338|88.91|NA|NA|NA
+40|Zirconium|Zr|Solid|6.49|1.4|1789|1852|4377|91.22|NA|NA|NA
+41|Niodium|Nb|Solid|8.57|1.6|1801|2468|5127|92.91|NA|NA|NA
+42|Molybdenum|Mo|Solid|10.2|1.8|1778|2610|5560|95.94|NA|NA|"Hard, silvery-white metallic element. Discovered by Carl Wilhelm in 1778, a Swedish chemist. Often used in making aircraft and missile parts, as well as a catalyst for many industrial processes."
+43|Technetium|Tc|Synthetic|11.5|1.9|1937|2172|4877|98.91|NA|NA|First artificially created element. Carlo Perrier and Emilio Segre from Italy first isolated technetium. Name orginates from the word technetium which means artifical.
+44|Ruthenium|Rh|Solid|12.4|2.2|1844|2310|3900|101.07|NA|NA|NA
+45|Rhodium|Rh|Solid|12.4|2.2|1803|1966|3727|102.91|NA|NA|NA
+46|Palladium|Pd|Solid|12|2.2|1803|1554|2970|106.42|2|4|"Soft, shiny, silvery-white metal. Fined divided palladum, called palladium black, is used as a catalyst.  Discovered  by the English chemist, William H. Wollaston in 1803."
+47|Silver|Ag|Solid|10.5|1.9|Ancients|962|2212|107.87|1|NA|NA
+48|Cadmium|Cd|Solid|8.64|1.7|1817|321|765|112.41|2|NA|NA
+49|Indium|In|Solid|7.3|1.7|1863|157|2080|114.82|3|NA|NA
+50|Tin|Sn|Solid|7.31|1.8|Ancients|232|2270|118.69|4|2|NA
+51|Antimony|Sb|Solid|6.68|1.9|Ancients|631|1750|121.75|3|5|NA
+52|Tellurium|Te|Solid|6.2|2.1|1782|450|990|127.6|-2|NA|Semimetallic element. Discovery in 1782 by the Austrian chemist Franz muller von reichenstein.
+53|Iodine|I|Solid|4.93|2.5|1811|114|184|126.9|-1|NA|NA
+54|Xenon|Xe|Gas|5.89|NA|1898|-112|-107|131.29|NA|NA|NA
+55|Cesium|Cs|Solid|1.88|0.7|1860|28.4|669|132.91|1|NA|NA
+56|Barium|Ba|Solid|3.5|0.9|1808|725|1640|137.33|2|NA|"Soft, heavy, silver-colored metal element. Barium easily reacts with other elements.  In 1808, in was isolated by Sir Humphery Davy, and English chemist."
+57|Lanthanum|La|Solid|6.15|1.1|1839|918|3464|138.91|NA|NA|"Soft, silvery-white  metal.  The name comes from the Greek word lanthano, meaning to be hidden or concealed.  It was discovered by the Swedish chemist Carl Mosander in 1839."
+58|Cerium|Ce|Solid|6.69|1.1|1803|798|3443|140.12|3|NA|NA
+59|Praseodymium|Pr|Solid|6.64|1.1|1885|931|3520|140.91|3|NA|"The word comes from the Greek words prasios, meaing leekgreen, and didymos, meaning twin. First discovered by the Austrian chemist C. F. Auer von Welsbach in 1885."
+60|Neodymium|Nd|Solid|7.01|1.2|1885|1021|3074|144.24|3|NA|NA
+61|Promethium|Pm|Synthetic|7.26|NA|1945|1042|3000|145|3|NA|"Exists as radioactive isotopes. Discovered by three american chemists, J. A. Marinsky, Lawrence E. Glendenin, and Charles D. Coryell in 1945."
+62|Samarium|Sm|Solid|7.52|1.2|1879|1074|1794|150.4|3|NA|NA
+63|Europium|Eu|Solid|5.24|NA|1901|822|1527|151.97|3|2|"Soft, silver metal.  Discovered by the Frnch scientist Eugene Demarcay in 1901."
+64|Gadolimium|Gd|Solid|7.9|1.1|1880|1313|3273|157.25|3|NA|NA
+65|Terbium|Tb|Solid|8.23|1.2|1843|1356|3230|158.93|3|NA|"Many terbium compounds glow with a green color and are used in phosphors.  Discovered in 1843 by Carl Molsander, a Swedish scientist."
+66|Dysprosium|Dy|Solid|8.55|NA|1886|1412|2567|162.5|3|NA|NA
+67|Holmium|Ho|Solid|8.8|1.2|1878|1474|2700|164.93|3|NA|"One of the rare earth metals.  Was identified by the Swiss scientist J.L. Soret in 1878.  However it was P.T. Cleve of Sweden who both discovered and named the element.  It's name comes from the Latin word Holmia, which means Stockholm, Sweden."
+68|Erbium|Er|Solid|9.07|1.2|1842|1529|2868|167.26|3|NA|"Grayish-silver colored element.  Discovered by Carl Mosander, a Swedish scientist, in 1843."
+69|Thulium|Tm|Solid|9.32|1.2|1879|1545|1950|168.94|3|NA|"Name comes from the Thule, the Latin word for the northernmost part of the inhabitable world. The Swedish scientist Per Cleve first discovered this element in 1879."
+70|Ytterbium|Yb|Solid|6.97|1.1|1878|819|1196|173.04|3|NA|NA
+71|Lutetium|Lu|Solid|9.84|1.2|1907|1663|3402|174.97|3|NA|"Silver colored metal. The name comes from Lutetia, the ancient name of Paris.  It was discovered by the French scientist Georges Urbain in 1907."
+72|Hafnium|Hf|Solid|13.3|1.3|1923|2227|4602|178.49|NA|NA|"Metal which absorbs neutrons better than most metals and is resistant to corrosion.  Discovered by Dirk Coster, a Dutch physicist, and Georg von Hevesy, a Hungarian chemist, in 1923.  The name derives from the Latin word Hafina, meaning Cophenagen."
+73|Tanalum|Ta|Solid|16.6|1.5|1802|2996|5424|180.95|NA|NA|"Also called wolfram, hard, silvery-white metal. Discovered in 1783 by two Spanish chemists, Frausto de Elhuyar and his brother Juan Jose."
+74|Tungsten|W|Solid|19.4|1.7|1783|3410|5660|183.85|NA|NA|NA
+75|Rhenium|Re|Solid|21|1.9|1925|3180|5672|186.21|NA|NA|NA
+76|Osmium|Os|Solid|22.5|2.2|1803|2700|5300|190.2|NA|NA|NA
+77|Iridium|Ir|Solid|22.4|2.2|1803|2410|4130|192.22|NA|NA|NA
+78|Platinum|Pt|Solid|21.5|2.2|1735|1772|3827|195.08|4|2|"Silver-white metal that is of greater value than gold. Platinum serves as a catalyst. Discovered in 1557 by the Italian scientist, Julius Scaliger."
+79|Gold|Au|Solid|19.3|2.4|Ancients|1064|2808|196.97|3|1|NA
+80|Mercury|Hg|Liquid|13.5|2.4|Ancients|-39|357|200.59|2|1|"Liquid, silver-colored metal. Mercury compounds are extremely poisonous and can cause illness or death. Having the ability to expand and contract evenly in response to changing temperatures. Named after the swift messenger of the gods in Roman mythology."
+81|Thallium|Ti|Solid|11.85|1.8|1861|304|1457|204.38|1|3|"Soft, bluish-gray metallic element. Discovered by Sir William Crookes, an English scientist, in 1861. This element is quite toxic, and too much exposure may cause nerve damage, emotional changes, cramps and convulsions, and eventuall coma and death."
+82|Lead|Pb|Solid|11.3|1.8|Ancients|328|1740|207.2|2|4|"Soft, weak, heavy bluish-gray element. Being one of the oldest known elements to man.  Due to its weakness it is often mixed with other elements to form lead alloys.  Lead can also be harmful if excess lead is contained in the body, called lead poisoning."
+83|Bismuth|Bi|Solid|9.8|1.9|1753|271|1560|208.98|3|5|"Brittle, white metal with a pink tint. It has many uses in the production of medicine, however, they have been found to cause toxic reactions in people."
+84|Polonium|Po|Solid|9.4|2|1898|254|962|209|2|4|Radioactive metallic element.In 1898 it was discovered by Marie and Pierre Curie of France.  It can be artifically obtained  by bombarding bismuth with neutrons.
+85|Astatine|At|Solid|NA|2.2|1940|302|337|210|-1|NA|NA
+86|Radon|Rn|Gas|9.73|NA|1900|-71|-61.8|222|NA|NA|NA
+87|Francium|Fr|Solid|NA|0.7|1939|27|677|223|1|NA|Radioactive element produced in certain nuclear reactions. Discovered in  1939 by the French scientist Marguerite Perey.
+88|Radium|Ra|Solid|5|0.9|1898|700|1140|226.03|2|NA|NA
+89|Actinium|Ac|Solid|10.1|1.1|1899|1050|3200|227.03|3|NA|NA
+90|Thorium|Th|Solid|11.7|1.3|1828|1750|4790|232.04|4|NA|Radioactive element which is soft metal with a silvery luster. Discovered by the Swedish chemist Jons J. Berzelius in 1828. Named after the Norse god Thor.
+91|Protactinium|Pa|Solid|15.4|1.5|1913|1600|NA|231.04|5|NA|"Radioactive metal. Two teams of scientists isolated the element in 1917. Of these were Otto Hahn and Lise Meitner of Germany, and Fredick Soddy and John Cranston of Great Britian.  Artificially obtained in nuclear reactors and particle accelerators."
+92|Uranium|U|Solid|19.1|1.7|1789|1132|3818|238.03|6|4|"Highly reactive, silvery-white, radioactive metal - the main source of nuclear energy.  The name orginated in honor of the planet Uranus. Discovered in 1789 by the Germon chemist Martin H. Klaproth."
+93|Neptunium|Np|Synthetic|20.5|1.3|1940|1042|3000|237.05|5|NA|NA
+94|Plutonium|Pu|Synthetic|19.8|1.3|1940|1074|1794|244|4|6|"Radioactive metallic element. Almost all is produced artificially. Highly poisonous because of it rapid releasal of high energy particles, called alpha rays. Discovered in 1940 by Glenn T. Seaborg, Edwin M. McMillan, Joseph W. Kenedy, and Arthur C. Wahl."
+95|Americium|Am|Synthetic|13.7|1.3|1944|994|2607|243|3|NA|NA
+96|Curium|Cm|Synthetic|13.5|NA|1944|1340|NA|247|3|NA|NA
+97|Berkelium|Bk|Synthetic|14|NA|1949|NA|NA|247|3|NA|"Artifically created radioactive element. Ten isotopes of this element are known. First discovered by Stanley G. Thompson, Albeert Ghiorso, and Glenn T. Seaborg, in 1949, while working a Berkeley university, from which this element is named after."
+98|Californium|Cf|Synthetic|NA|NA|1950|NA|NA|251|NA|NA|NA
+99|Einsteinium|Es|Synthetic|NA|NA|1952|NA|NA|252|NA|NA|Artificially created radioactive element. Named in the honor of the famous scientist Albert Einstein. Einsteinium was first found in 1952.
+100|Fermium|Fm|Synthetic|NA|NA|1953|NA|NA|257|NA|NA|"Artificially created radioactive element. First discovered by a team of American scientists lead by Albert Ghiorso in 1953. Named for Enrico Fermi, the Italian physicist who produced the first controlled nuclear chain reaction."
+101|Mendelevium|Md|Synthetic|NA|NA|1955|1021|3074|258|NA|NA|NA
+102|Nobelium|No|Synthetic|NA|NA|1958|NA|NA|259|NA|NA|NA
+103|Lawrencium|Lr|Synthetic|NA|NA|1961|NA|NA|260|NA|NA|"Artifically created radioactive element.  The name was dedicated to the American physicist Ernest O. Lawrence. Discovered in 1961 by four American scientists, Albert Ghiorso, Torbjorn Sikkeland, Almon E. Larsh, and Robert M. Latimer."
+104|Unnilquadium|Unq|Synthetic|NA|NA|1969|NA|NA|261|NA|NA|NA
+105|Unnilpentium|Unp|Synthetic|NA|NA|1970|NA|NA|262|NA|NA|NA
+106|Unnilhexium|Unh|Synthetic|NA|NA|1970|NA|NA|263|NA|NA|NA
+107|Unnilseptium|Uns|Synthetic|NA|NA|NA|NA|NA|262|NA|NA|NA
+109|Unnilennium|Une|Synthetic|NA|NA|NA|NA|NA|266|NA|NA|NA
